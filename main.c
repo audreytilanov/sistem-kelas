@@ -9,6 +9,7 @@ int main(){
 		scanf("%d", &arr);
 	}
 }
+//testing
 int status;
 	int jabatan;
 	int upah;
