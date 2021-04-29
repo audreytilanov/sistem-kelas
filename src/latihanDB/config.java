@@ -25,7 +25,7 @@ public class config {
             System.err.print("koneksi gagal" +e.getMessage()); //error message
         }
         return mysqlconfig;
-//        TESTING KEDUA DAN KETIGAS ds
+//       dsadas
     }
     
 }
