@@ -27,7 +27,7 @@ public class config {
         return mysqlconfig;
 
 
-//        yooo
+
 
 
     }
